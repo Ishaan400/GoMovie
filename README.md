@@ -237,7 +237,7 @@ curl -X DELETE http://localhost:3000/movies/{id}
 
 ## Next Steps
 
-To enhance your API, consider:
+To enhance API, we can:
 
 - Writing unit tests for each endpoint.
 - Building a user-friendly front-end.
